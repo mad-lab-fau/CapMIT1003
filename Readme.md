@@ -38,7 +38,18 @@ Note the usage with `with`; this ensures that the database is properly closed af
 
 ## Citation
 
-When using the dataset, please make sure to also cite the original MIT1003 database.
+When using the CapMIT1003 dataset, please cite our preprint.
+
+```
+@article{zanca2023contrastive,
+  title     = {Contrastive Language-Image Pretrained Models are Zero-Shot Human Scanpath Predictors},
+  author    = {Zanca, Dario and Zugarini, Andrea and Dietz, Simon and Altstidl, Thomas R and Ndjeuha, Mark A Turban and Schwinn, Leo and Eskofier, Bjoern},
+  journal   = {arXiv preprint arXiv:2305.12380},
+  year      = {2023}
+}
+```
+
+Please make sure to also cite the original MIT1003 database.
 
 ```
 @InProceedings{Judd_2009,
