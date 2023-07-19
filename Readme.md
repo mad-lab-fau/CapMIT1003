@@ -2,6 +2,8 @@
 
 The CapMIT1003 database contains captions and clicks collected for images from the MIT1003 database, for which reference eye scanpath are available. The database is distributed as a single SQLite3 database named `capmit1003.db`. For convenience, a lightweight Python class to access the database is provided (see "Programmatic Usage").
 
+For more information about the data collection process and dataset statistics, please refer to our preprint https://arxiv.org/abs/2305.12380
+
 ## Column Descriptions
 
 | Name       | Type      | Description                                                |
